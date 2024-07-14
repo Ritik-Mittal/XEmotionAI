@@ -17,8 +17,8 @@ This project aims to classify the sentiment of tweets as positive or negative us
 - **Performance**: Achieves high accuracy, precision, and recall.
 
 ### Pickle Files
-- `stp_words_removed_tokenized.pkl`: Contains tokenized tweets with stopwords removed.
-- `preprocessed_tweets.pkl`: Contains preprocessed and lemmatized tweets.
+- `stp_words_removed_tokenized.pkl`: Contains tokenized tweets with stopwords removed. (You need to create it when working with twitter sentiment classification file to make things easier)
+- `preprocessed_tweets.pkl`: Contains preprocessed and lemmatized tweets. (You need to create it when working with twitter sentiment classification file to make things easier)
 - `vectorized_data.npz`: Contains vectorized tweet data ready for model training.
 
 ### Installation and Setup
